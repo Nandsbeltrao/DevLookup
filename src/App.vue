@@ -13,7 +13,7 @@
       <section>
         <div>
             <h3>17 de ago, 2024</h3>
-            <img :src="Coracao" alt="">
+            <img :src="Coracao" alt="Ícone de coração preenchido">
         </div>
         <h2>O que é linguagem de programação? Conheça as principais</h2>
         <p>Uma das mais populares vertentes da tecnologia da informação, a área de programação segue tendo muita demanda de trabalho justamente pela velocidade com que dispositivos tecnológicos vêm avançando.</p>
@@ -31,7 +31,7 @@
       <section>
         <div>
             <h3>21 de jun, 2024</h3>
-            <img :src="ContornoCoracao" alt="">
+            <img :src="ContornoCoracao" alt="Ícone de coração com contorno">
         </div>
         <h2>Por que os hiperlinks são azuis em sua maioria?</h2>
         <p>Quem navega na internet, certamente já percebeu que ela conta com diversos recursos para tornar a nossa vida mais fácil. Entre essas opções podemos mencionar os hiperlinks - uma palavra ou termo clicável que direciona o leitor.</p>
@@ -65,7 +65,7 @@
       border-radius: 13px;
       background-color: #202024;
       color:white;
-     font-family: "roboto", sans-serif; 
+      font-family: "roboto", sans-serif; 
      
       
 
@@ -73,9 +73,7 @@
         color:white;
         font-family: "roboto", sans-serif; 
       }
-    }
-
-    
+    }   
   }
 
   main {
@@ -114,7 +112,7 @@
       width: 75vw;
       height: 54vh;
       padding: 2rem;
-      margin: 1.2rem;
+      margin: 1.3rem;
 
       h2,p{
         font-size: 1.2rem;
