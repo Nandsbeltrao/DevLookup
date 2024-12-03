@@ -44,7 +44,7 @@ HTML5: Estrutura semântica do projeto.
 Clone este repositório:
 bash
 Copiar código
-git clone https://github.com/seu-usuario/devlookup.git
+git clone https://github.com/Nandsbeltrao/DevLookup.git
 
 Instale as dependências:
 bash
